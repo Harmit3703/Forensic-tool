@@ -1,0 +1,4 @@
+psutil>=5.9.0
+requests>=2.31.0
+# tkinter is part of the Python standard library on most platforms
+# For extended forensic features add optional dependencies (volatility3, pywin32, etc.) as needed
